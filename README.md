@@ -1,3 +1,5 @@
+![Cover](https://github.com/CrazyFranck23/CrazyFranck23/blob/main/img/github_cover.jpg)
+
 - 👋 Hi, I’m @CrazyFranck23 (23 simply because I was born the 23rd day of a month 🤫😂).
 - 💻 I'm a computer engineering student with a strong palatability for embedded systems & IoT. 🐱‍👤
 - 📚 Currently, student in engineering school and self-taught in my spare time. 📖
